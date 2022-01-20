@@ -1,0 +1,61 @@
+  <!--Portfolio 01 -->
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Walking into the Sunset.png" alt = "Photoshop 1" class = "portfolio__img">
+                  </a>
+
+                  <!--Portfolio 02 -->
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Puma in the Forest Final.png" alt = "Photoshop 2" class = "portfolio__img">
+                  </a>
+
+                  <!--Portfolio 03 -->
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Asap Rocky Scratchbook Project.png" alt = "Photoshop 3" class = "portfolio__img">
+                  </a>
+
+                  <!--Portfolio 04 -->
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Levitation Glitch.png" alt = "Photoshop 4" class = "portfolio__img">
+                  </a>
+
+                  <!--Portfolio 05 -->
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Hand & Humming Bird.jpg" alt = "Photoshop 5" class = "portfolio__img">
+                  </a>
+
+                  <!--Portfolio 06 -->
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Double Exposure Wolf.png" alt = "Photoshop 6" class = "portfolio__img">
+                  </a>
+                </div>
+
+
+
+
+
+Figma
+                  <p class = "section__subtitle section__title--work">Click below to view my Prototype UI</p>
+                  <div class = "portfolio">
+
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Figma - Log In Pages.png" alt = "Figma Log in Pages" class = "portfolio__img">
+                  </a>
+
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Figma - Home Pages.png" alt = "Figma Home Pages" class = "portfolio__img">
+                  </a>
+
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Figma - Search Listings.png" alt = "Figma Search Listings" class = "portfolio__img">
+                  </a>
+
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Figma - Results.png" alt = "Figma-Results Page" class = "portfolio__img">
+                  </a>
+
+                  <a href="#" class = "portfolio__item">
+                      <img src = "Figma - Apply.png" alt = "Figma-Appy Page" class = "portfolio__img">
+                  </a>
+
+
+
