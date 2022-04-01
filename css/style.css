@@ -447,7 +447,12 @@ header {
   .portfolio{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    div {
+      display: flex;
+      justify-content: center;
+      
   }
+}
 
   .portfolio__item{
       background: var(--clr__accent);
